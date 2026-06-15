@@ -107,7 +107,9 @@ self.model = RandomForestClassifier(
 
 ## License
 
-This project uses data from Kaggle under their terms of service. Please review the dataset license for usage restrictions.
+The code in this repository is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
+
+The dataset used by the project still follows Kaggle's terms of service. Please review the dataset license for usage restrictions.
 
 ---
 
