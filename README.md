@@ -77,7 +77,7 @@ The model outputs a prediction dictionary containing:
 
 Example output:
 ```
-🏆 Predicted Winner: Brazil
+Predicted Winner: Brazil
 Confidence Level: 75.3%
 
 Top Contenders:
